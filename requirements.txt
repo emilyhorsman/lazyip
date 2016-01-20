@@ -1,2 +1,6 @@
+click==6.2
+docopt==0.4.0
+mandrill==1.0.57
+ordereddict==1.1
 requests==2.9.1
 wheel==0.26.0
